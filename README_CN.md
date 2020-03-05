@@ -2,6 +2,12 @@
 
 在Hexo博客中嵌入steam游戏。
 
+## 安装
+
+```
+npm install hexo-tag-steamgame --save
+```
+
 ## 使用方法
 
 * 嵌入单个游戏

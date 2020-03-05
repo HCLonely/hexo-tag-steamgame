@@ -4,6 +4,12 @@ Embed steam game in Hexo posts/pages.
 
 [中文说明](https://github.com/HCLonely/hexo-tag-steamgame/blob/master/README_CN.md)
 
+## Installation
+
+```
+npm install hexo-tag-steamgame --save
+```
+
 ## Useage
 
 * Embed a single game
