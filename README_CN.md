@@ -32,7 +32,7 @@ description(可选): 用于替换默认游戏简介。
 
 ## Demo
 
-[https://blog.hclonely.cn/posts/94295339/#demo](https://blog.hclonely.cn/posts/94295339/#demo)
+[https://blog.hclonely.com/posts/94295339/#demo](https://blog.hclonely.cn/posts/94295339/#demo)
 
 ## License
 
