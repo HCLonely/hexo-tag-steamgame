@@ -1,17 +1,16 @@
 # hexo-tag-steamgame
 
-Embed steam game in Hexo posts/pages.
-[中文说明](https://github.com/HCLonely/hexo-tag-steamgame/blob/master/README_CN.md)
+在Hexo博客中嵌入steam游戏。
 
-## Useage
+## 使用方法
 
-* Embed a single game
+* 嵌入单个游戏
 
 ```
 {% steamgame appid description %}
 ```
 
-* Bulk embed games
+* 批量嵌入游戏
 
 ```
 {% steamgames %}
@@ -24,10 +23,12 @@ appid
 {% endsteamgames %}
 ```
 
-## Parameters
+## 参数
 
-* appid: Steam game app id.
-* description(optional): Used to replace the default game profile.
+```
+appid: Steam 游戏 id.
+description(可选): 用于替换默认游戏简介。
+```
 
 ## Demo
 
