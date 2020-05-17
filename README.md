@@ -38,7 +38,7 @@ appid
 
 ## Demo
 
-[https://blog.hclonely.com/posts/94295339/#demo](https://blog.hclonely.cn/posts/94295339/#demo)
+[https://demo.hclonely.com/posts/b0009374/](https://demo.hclonely.com/posts/b0009374/)
 
 ## License
 
